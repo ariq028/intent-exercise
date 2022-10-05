@@ -51,7 +51,7 @@
 
         <TextView
             android:id="@+id/label_about"
-            android:layout_width="0dp"
+            android:layout_width="380dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -104,7 +104,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="@+id/guideline2"
             app:layout_constraintTop_toBottomOf="@id/separator1"
-            tools:text="Jonathan Doe"
+            tools:text="Muhammad Ariq Daffa"
             />
 
         <View
@@ -147,7 +147,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="@+id/guideline2"
             app:layout_constraintTop_toBottomOf="@id/separator2"
-            tools:text="jonathan.designer@gmail.com"
+            tools:text="H1D020064"
             />
 
         <View
@@ -170,7 +170,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
             android:fontFamily="@font/futura_pt_demibold"
-            android:text="Email"
+            android:text="Website"
             android:textAlignment="textStart"
             android:textSize="20sp"
             app:layout_constraintEnd_toStartOf="@+id/guideline2"
